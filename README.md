@@ -8,4 +8,6 @@
 
 ## Installing
 
-Copy the built `UnbeatableSkipper.dll` to the `BepInEx/plugins` folder of the game
+*(We assume you have installed mods before and have BepInEx 5 installed)*
+
+Get the latest release zip from the [Releases](https://github.com/FrozenAlex/UnbeatableLogoSkip/releases/latest) page and unzip it into the game's root directory. 
